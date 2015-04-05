@@ -1,0 +1,1879 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     creator="~lippke/PCT-2015/lol/P16 - Final GPX.ipynb" version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+     http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <desc><![CDATA[This waypoint data is sourced from the PCT Halfmile Project.
+          Elevation values are spline interpolations from USGS 1/3rd arcsecond DEM data
+          and, as such, are NAVD88-based (i.e., are quasi MSL).<br/><br/>
+          Contact David Lippke <lippke@gmail.com> if you have technical questions
+          or Lon Cooper <Halfmile@pctmap.net> for all others.]]>
+    </desc>
+  </metadata>
+  <wpt lat="33.834067" lon="-116.716524">
+    <ele>2485.2</ele>
+    <name>SanJacintoWild2</name>
+    <desc><![CDATA[San Jacinto State Park Wilderness, northern boundary. Camping allowed only in designated camping areas, $5 per person permit required, for 5.4 miles to the south.]]></desc>
+    <sym>Forest</sym>
+  </wpt>
+  <wpt lat="33.783253" lon="-116.699434">
+    <ele>2490.6</ele>
+    <name>SanJacintoWild</name>
+    <desc><![CDATA[San Jacinto State Park Wilderness, southern boundary. Camping allowed only in designated camping areas, $5 per person permit required, for 5.4 miles to the north.]]></desc>
+    <sym>Forest</sym>
+  </wpt>
+  <wpt lat="33.379033" lon="-116.592348">
+    <ele>1558.1</ele>
+    <name>TR0127</name>
+    <desc><![CDATA[Spur trail to Mike Herrera's place.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.802024" lon="-116.698795">
+    <ele>2727.4</ele>
+    <name>2SJTrail</name>
+    <desc><![CDATA[Trail from San Jacinto Peak via Little Round Valley rejoins PCT, in 2011 the only trail sign here was one pointing to Fuller Ridge.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.675912" lon="-116.675724">
+    <ele>1335.5</ele>
+    <name>ACCenter-Spt</name>
+    <desc><![CDATA[Apple Canyon Center, Ronald McDonald Camp gate. Turn right on gravel road that follows the fenced E edge of the Hurkey CG - mile 6.9]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="33.783607" lon="-116.751874">
+    <ele>1769.9</ele>
+    <name>AlandaleFS-BMR</name>
+    <desc><![CDATA[Pass Alandale Forest Service Station on the left - mi 5.5]]></desc>
+    <sym>Water Hydrant</sym>
+  </wpt>
+  <wpt lat="33.716680" lon="-116.624513">
+    <ele>2241.0</ele>
+    <name>ApacheSprTr</name>
+    <desc><![CDATA[Apache Spring Trail Junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.724750" lon="-116.706334">
+    <ele>1753.0</ele>
+    <name>BigCTank-Spt</name>
+    <desc><![CDATA[Continue past metal water tank below Big Cedar Spring [empty in August 2010] - mi 11.6]]></desc>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="33.826486" lon="-116.750492">
+    <ele>2232.7</ele>
+    <name>BlackMLoRd-BMR</name>
+    <desc><![CDATA[Pass unpaved Mountain Lookout Rd]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.833083" lon="-116.741604">
+    <ele>2250.9</ele>
+    <name>BlackMtnGC-BMR</name>
+    <desc><![CDATA[Black Mountain group camping area - mi 14]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.796682" lon="-116.757494">
+    <ele>1638.7</ele>
+    <name>BlackMtnRd-BMR</name>
+    <desc><![CDATA[Right on unpaved Black Mountain Rd - mi 8.2]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.707091" lon="-116.688726">
+    <ele>1546.3</ele>
+    <name>BonitaVRd-Spt</name>
+    <desc><![CDATA[Keep left at the junction with unpaved Bonita Vista Rd - mi 9.8]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.666257" lon="-116.575298">
+    <ele>2065.0</ele>
+    <name>CedarSprTr</name>
+    <desc><![CDATA[Cedar Spring Trail Junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.764053" lon="-116.687075">
+    <ele>1947.8</ele>
+    <name>Creek-EM</name>
+    <desc><![CDATA[Small Creek]]></desc>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="33.311008" lon="-116.627581">
+    <ele>986.1</ele>
+    <name>CS0115</name>
+    <desc><![CDATA[Campsite on E side of Agua Caliente Creek]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.352986" lon="-116.609277">
+    <ele>1530.1</ele>
+    <name>CS0124</name>
+    <desc><![CDATA[Several small campsites among the boulders.]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.396418" lon="-116.601356">
+    <ele>1704.3</ele>
+    <name>CS0129</name>
+    <desc><![CDATA[Several campsites on the high ridge near Combs Peak.]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.505688" lon="-116.576992">
+    <ele>1314.2</ele>
+    <name>CS0144</name>
+    <desc><![CDATA[Several campsites among huge boulders.]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.595619" lon="-116.571353">
+    <ele>1579.4</ele>
+    <name>CS0156</name>
+    <desc><![CDATA[Shady campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.611976" lon="-116.564265">
+    <ele>1728.6</ele>
+    <name>CS0157</name>
+    <desc><![CDATA[Campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.636672" lon="-116.569200">
+    <ele>1924.7</ele>
+    <name>CS0160</name>
+    <desc><![CDATA[Small campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.648353" lon="-116.566786">
+    <ele>2078.7</ele>
+    <name>CS0161</name>
+    <desc><![CDATA[Small shady campsites]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.727728" lon="-116.632800">
+    <ele>2103.9</ele>
+    <name>CS0171</name>
+    <desc><![CDATA[Campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.736171" lon="-116.643744">
+    <ele>2190.1</ele>
+    <name>CS0172</name>
+    <desc><![CDATA[Several small campsites]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.760836" lon="-116.644421">
+    <ele>2509.0</ele>
+    <name>CS0175</name>
+    <desc><![CDATA[Several large campsites]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.775715" lon="-116.674167">
+    <ele>2489.9</ele>
+    <name>CS0180</name>
+    <desc><![CDATA[Campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.784093" lon="-116.675017">
+    <ele>2750.7</ele>
+    <name>CS0181</name>
+    <desc><![CDATA[Campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.787601" lon="-116.678466">
+    <ele>2763.4</ele>
+    <name>CS0181B</name>
+    <desc><![CDATA[Several campsites]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.780200" lon="-116.695200">
+    <ele>2558.6</ele>
+    <name>CS0183</name>
+    <desc><![CDATA[Several campsites]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.782606" lon="-116.702663">
+    <ele>2471.1</ele>
+    <name>CS0183B</name>
+    <desc><![CDATA[Strawberry Trail Camp, outhouse.]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.839831" lon="-116.736670">
+    <ele>2349.9</ele>
+    <name>CS0191</name>
+    <desc><![CDATA[Campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.846156" lon="-116.737554">
+    <ele>2261.9</ele>
+    <name>CS0191B</name>
+    <desc><![CDATA[Campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.855642" lon="-116.725489">
+    <ele>1969.8</ele>
+    <name>CS0194</name>
+    <desc><![CDATA[Several campsites]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.864962" lon="-116.717287">
+    <ele>1724.6</ele>
+    <name>CS0195</name>
+    <desc><![CDATA[Small campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.871156" lon="-116.711446">
+    <ele>1496.0</ele>
+    <name>CS0197</name>
+    <desc><![CDATA[Campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.871604" lon="-116.693678">
+    <ele>1021.3</ele>
+    <name>CS0201</name>
+    <desc><![CDATA[Campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.867583" lon="-116.691850">
+    <ele>993.4</ele>
+    <name>CS0202</name>
+    <desc><![CDATA[Campsite at the saddle west of knob.]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.880786" lon="-116.684002">
+    <ele>642.8</ele>
+    <name>CS0205</name>
+    <desc><![CDATA[Campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.693960" lon="-116.681314">
+    <ele>1428.9</ele>
+    <name>DarrenMem-Spt</name>
+    <desc><![CDATA[Pass a small memorial for Darren York who died after becoming ill mountain biking in 2006 - mile 8.6]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="33.752766" lon="-116.721851">
+    <ele>1712.3</ele>
+    <name>DeerSpringsTr</name>
+    <desc><![CDATA[Deer Springs Trail, across road from Idyllwild Nature Center]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.764699" lon="-116.687202">
+    <ele>1956.8</ele>
+    <name>ErnieMaxwellTr</name>
+    <desc><![CDATA[Earnie Maxwell trailhead,  on Fern Valley Rd, just below Humber Park, start of 3.6 mile route to center of Idyllwild.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.690070" lon="-116.609559">
+    <ele>1827.0</ele>
+    <name>FobesRanchTr</name>
+    <desc><![CDATA[Fobes Ranch Trail Junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.697683" lon="-116.683542">
+    <ele>1441.4</ele>
+    <name>Footbridge-Spt</name>
+    <desc><![CDATA[Cross a small wooden footbridge - mile 8.9]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="33.691554" lon="-116.681810">
+    <ele>1406.5</ele>
+    <name>Fork1-Spt</name>
+    <desc><![CDATA[Keep left at the unmarked fork in the trail - mi 8.5]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.696145" lon="-116.682182">
+    <ele>1439.3</ele>
+    <name>Fork2-Spt</name>
+    <desc><![CDATA[Keep left at the unsigned fork - mile 8.8]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="33.839059" lon="-116.736294">
+    <ele>2360.9</ele>
+    <name>FullerRidgeTH</name>
+    <desc><![CDATA[Fuller Ridge Trailhead, parking.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.680520" lon="-116.681913">
+    <ele>1353.4</ele>
+    <name>Gate-Spt</name>
+    <desc><![CDATA[Pedestrian gate to Hurkey Campground, next to campsite 130, near Darren York memorial log bench.]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="33.441375" lon="-116.604831">
+    <ele>1255.1</ele>
+    <name>GT0134</name>
+    <desc><![CDATA[Pipe gate]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="33.455982" lon="-116.604871">
+    <ele>1137.9</ele>
+    <name>GT0136</name>
+    <desc><![CDATA[Pipe gate]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="33.622486" lon="-116.564465">
+    <ele>1813.9</ele>
+    <name>GT0158</name>
+    <desc><![CDATA[Gate, fence.]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="33.892217" lon="-116.681343">
+    <ele>373.7</ele>
+    <name>GT0207</name>
+    <desc><![CDATA[Gate, blocks vehicle traffic S on paved road.]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="33.669668" lon="-116.674554">
+    <ele>1329.9</ele>
+    <name>HemetStore</name>
+    <desc><![CDATA[Hemet Store, 6/10 mile SE of entrance to Hurkey Campground on Highway 74]]></desc>
+    <sym>Shopping Center</sym>
+  </wpt>
+  <wpt lat="33.742484" lon="-116.702448">
+    <ele>1692.8</ele>
+    <name>HemstreetPl-EM</name>
+    <desc><![CDATA[Right on paved Hemstreet Pl - mi 2.8]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.764664" lon="-116.685855">
+    <ele>1981.6</ele>
+    <name>HumberPark</name>
+    <desc><![CDATA[Humber Park, 2.6 miles west of PCT mile 179.4.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.675452" lon="-116.681963">
+    <ele>1351.1</ele>
+    <name>HurkeyCG</name>
+    <desc><![CDATA[Hurkey Campground entrance, water, payphone, restrooms, coin showers, $20 per night for 6 people.]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.681657" lon="-116.681554">
+    <ele>1356.2</ele>
+    <name>HurkeyCrk-Spt</name>
+    <desc><![CDATA[Cross Hurkey Creek - mile 7.6]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="33.924240" lon="-116.694547">
+    <ele>407.7</ele>
+    <name>Hwy10</name>
+    <desc><![CDATA[Interstate Highway 10]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.745751" lon="-116.714587">
+    <ele>1632.7</ele>
+    <name>Hwy243</name>
+    <desc><![CDATA[Arrive Hwy 243 - mi 3.7]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.738847" lon="-116.720485">
+    <ele>1595.2</ele>
+    <name>Hwy243-Spt</name>
+    <desc><![CDATA[Right Highway 243 - mi 13.5]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.563127" lon="-116.576750">
+    <ele>1500.7</ele>
+    <name>Hwy74</name>
+    <desc><![CDATA[Highway 74, Pine to Palms Highway, Paradise Cafe 1 mile west.]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.288558" lon="-116.653857">
+    <ele>892.7</ele>
+    <name>Hwy79B</name>
+    <desc><![CDATA[Hwy 79, 2nd crossing, Agua Caliente Creek.]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.787250" lon="-116.652988">
+    <ele>2407.6</ele>
+    <name>LawsTr</name>
+    <desc><![CDATA[Laws Trail Junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.812466" lon="-116.644019">
+    <ele>2560.9</ele>
+    <name>LongValleyTr</name>
+    <desc><![CDATA[Long Valley Trail Junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.333701" lon="-116.637942">
+    <ele>1277.0</ele>
+    <name>LostValleyRd</name>
+    <desc><![CDATA[Lost Valley Road, abandoned road.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.800730" lon="-116.705115">
+    <ele>2653.5</ele>
+    <name>MarionMtnTr</name>
+    <desc><![CDATA[Marion Mountain trail junction, Seven Pines Trail junction 100 feet N.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.715676" lon="-116.695629">
+    <ele>1643.3</ele>
+    <name>MayValGate-Spt</name>
+    <desc><![CDATA[Pass under locked Forest Service Gate  - mi 10.6]]></desc>
+    <sym>Toll Booth</sym>
+  </wpt>
+  <wpt lat="33.705907" lon="-116.688968">
+    <ele>1543.7</ele>
+    <name>MayValRd-Spt</name>
+    <desc><![CDATA[Right on unpaved and unmarked May Valley Rd - mi 9.7]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.814755" lon="-116.679440">
+    <ele>3298.4</ele>
+    <name>MtSanJacinto</name>
+    <desc><![CDATA[San Jacinto Peak, 3.6 miles E of PCT]]></desc>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="33.745301" lon="-116.713514">
+    <ele>1633.8</ele>
+    <name>NCircleDr-EM</name>
+    <desc><![CDATA[Left on paved North Circle Drive - mi 3.6]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.758553" lon="-116.739102">
+    <ele>1875.1</ele>
+    <name>PineCvMkt-BMR</name>
+    <desc><![CDATA[Pass small Pine Cove Market and gas station on left - mi 2.9]]></desc>
+    <sym>Shopping Center</sym>
+  </wpt>
+  <wpt lat="33.824896" lon="-116.751655">
+    <ele>2197.9</ele>
+    <name>PosesSpg-BMR</name>
+    <desc><![CDATA[Pipe and faucet by Black Mountain Rd - mi 12.8]]></desc>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="33.701292" lon="-116.683959">
+    <ele>1481.2</ele>
+    <name>Powerline-Spt</name>
+    <desc><![CDATA[Cross under a small power line - mile 9.2]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="33.285073" lon="-116.655414">
+    <ele>891.7</ele>
+    <name>PrivateCG</name>
+    <desc><![CDATA[Private campground]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.812997" lon="-116.638541">
+    <ele>2600.8</ele>
+    <name>PSTram</name>
+    <desc><![CDATA[Palm Springs Tram]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.460218" lon="-116.599938">
+    <ele>1103.3</ele>
+    <name>RD0137</name>
+    <desc><![CDATA[Upaved Tule Canyon Truck Trail]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.476664" lon="-116.577336">
+    <ele>1069.7</ele>
+    <name>RD0140</name>
+    <desc><![CDATA[Coyote Canyon Rd, unpaved.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.499568" lon="-116.570308">
+    <ele>1245.5</ele>
+    <name>RD0143</name>
+    <desc><![CDATA[Unpaved Table Mountain Truck Trail, trail gate.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.528188" lon="-116.590782">
+    <ele>1496.3</ele>
+    <name>RD0147</name>
+    <desc><![CDATA[Table Mountain Truck Trail, unpaved, 2nd crossing.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.840743" lon="-116.738482">
+    <ele>2335.8</ele>
+    <name>RD0191</name>
+    <desc><![CDATA[Black Mountain Road, unpaved.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.856341" lon="-116.733110">
+    <ele>2087.0</ele>
+    <name>RD0193</name>
+    <desc><![CDATA[Round-about of unpaved roads,  small unpaved parking area, possible trailhead for high clearance vehicles.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.893646" lon="-116.683018">
+    <ele>376.5</ele>
+    <name>RD0207</name>
+    <desc><![CDATA[PCT departs the paved road,]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.729244" lon="-116.710578">
+    <ele>1708.7</ele>
+    <name>RdJct-Spt</name>
+    <desc><![CDATA[Keep right at unmarked junction of unpaved roads - mi 12.1]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="33.803601" lon="-116.664091">
+    <ele>2758.4</ele>
+    <name>RoundValley</name>
+    <desc><![CDATA[Round Valley]]></desc>
+    <sym>Park</sym>
+  </wpt>
+  <wpt lat="33.774280" lon="-116.673053">
+    <ele>2473.0</ele>
+    <name>SaddleJct</name>
+    <desc><![CDATA[Saddle Junction, Devils Slide Trail to Humber Park, Idyllwild.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.747578" lon="-116.714376">
+    <ele>1641.9</ele>
+    <name>SanJacCG-BMR</name>
+    <desc><![CDATA[San Jacinto State Park Campground in the town of Idyllwild.]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.731801" lon="-116.710111">
+    <ele>1693.4</ele>
+    <name>SaunMdwRd-Spt</name>
+    <desc><![CDATA[Right on paved Saunders Meadow Rd - mi 12.3]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.743423" lon="-116.704700">
+    <ele>1666.2</ele>
+    <name>SCircleDr-EM</name>
+    <desc><![CDATA[Left on paved South Circle Dr - mi 3.0]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.814222" lon="-116.678365">
+    <ele>3259.7</ele>
+    <name>SJShelter</name>
+    <desc><![CDATA[Shelter near San Jacinto Peak]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="33.788526" lon="-116.677347">
+    <ele>2740.9</ele>
+    <name>SJTrail</name>
+    <desc><![CDATA[Trail to San Jacinto Peak via Wellman Divide]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.776877" lon="-116.665271">
+    <ele>2436.5</ele>
+    <name>SkunkCabTr</name>
+    <desc><![CDATA[Skunk Cabbage Junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.770339" lon="-116.664696">
+    <ele>2435.7</ele>
+    <name>SkunkLawsTr</name>
+    <desc><![CDATA[Skunk Laws Trail Junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.697877" lon="-116.652228">
+    <ele>1505.8</ele>
+    <name>SpitlerTH-Spt</name>
+    <desc><![CDATA[Spitler Peak trailhead, parking, go left on paved Apple Canyon Road - mi 4.7]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.710008" lon="-116.622516">
+    <ele>2136.3</ele>
+    <name>SpitlerTr</name>
+    <desc><![CDATA[Spitler Trail Junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.708651" lon="-116.624792">
+    <ele>2004.3</ele>
+    <name>Spring-Spt</name>
+    <desc><![CDATA[Small Spring]]></desc>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="33.711982" lon="-116.693287">
+    <ele>1604.4</ele>
+    <name>Spring2-Spt</name>
+    <desc><![CDATA[Pass spring and trough on the left - mi 10.2]]></desc>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="33.717648" lon="-116.697527">
+    <ele>1656.4</ele>
+    <name>SRidgeTr-Spt</name>
+    <desc><![CDATA[Continue past Southridge, Tahquitz Peak trailhead on right - mi 10.7]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.782939" lon="-116.704193">
+    <ele>2452.8</ele>
+    <name>StrawberryJct</name>
+    <desc><![CDATA[Strawberry Junction, Deer Springs Trail to Suicide Rock, Idyllwild.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.743296" lon="-116.702395">
+    <ele>1687.3</ele>
+    <name>StrongDr-EM</name>
+    <desc><![CDATA[Left on paved Strong Dr - 2.9]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.769968" lon="-116.696749">
+    <ele>2253.5</ele>
+    <name>SuicideRock</name>
+    <desc><![CDATA[Suicide Rock]]></desc>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="33.740279" lon="-116.702357">
+    <ele>1744.7</ele>
+    <name>TahquitzViewRd-EM</name>
+    <desc><![CDATA[Right on unpaved Tahquitz View Rd]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.768201" lon="-116.663562">
+    <ele>2403.1</ele>
+    <name>TqtzMdw</name>
+    <desc><![CDATA[Tahquitz Meadow, usually has water in May and June, 7/10 mile north of PCT mile 177.3.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.755402" lon="-116.677101">
+    <ele>2689.7</ele>
+    <name>TqtzPeak</name>
+    <desc><![CDATA[Tahquitz Peak, 4/10 mile W of PCT.]]></desc>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="33.757497" lon="-116.671598">
+    <ele>2627.1</ele>
+    <name>TqtzPkTr</name>
+    <desc><![CDATA[Tahquitz Peak Trail]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.760705" lon="-116.665620">
+    <ele>2479.1</ele>
+    <name>TqtzValTr</name>
+    <desc><![CDATA[Tahquitz Valley Trail]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.326799" lon="-116.635855">
+    <ele>1242.8</ele>
+    <name>TR0118</name>
+    <desc><![CDATA[Unmarked spur trail going 100 yards south to Lost Creek Road.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.326141" lon="-116.636023">
+    <ele>1227.9</ele>
+    <name>TR0118b</name>
+    <desc><![CDATA[100 yard spur trail from Lost Creek Rd to the PCT.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.623103" lon="-116.564014">
+    <ele>1814.2</ele>
+    <name>TR0158</name>
+    <desc><![CDATA[Trail junction for Live Oak Spring and Tunnel Spring, trail gate 250 feet S of junction.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.672365" lon="-116.582038">
+    <ele>2116.2</ele>
+    <name>TR0163</name>
+    <desc><![CDATA[Eagle Spring trail junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.855115" lon="-116.722632">
+    <ele>1948.6</ele>
+    <name>TR0194</name>
+    <desc><![CDATA[Unmarked use trail to West Fork Snow Creek.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.803041" lon="-116.643474">
+    <ele>2665.4</ele>
+    <name>TrRoundValley</name>
+    <desc><![CDATA[Round Valley Trail Junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.768325" lon="-116.709636">
+    <ele>2106.9</ele>
+    <name>TrSuicideRock</name>
+    <desc><![CDATA[Suicide Rock Trail Junction]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="33.802458" lon="-116.658847">
+    <ele>2739.4</ele>
+    <name>TrWillowCrk</name>
+    <desc><![CDATA[Willow Creek Trail Junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.742927" lon="-116.710988">
+    <ele>1623.6</ele>
+    <name>VillageCntrDr-EM</name>
+    <desc><![CDATA[Right on paved Village Center Dr - mi 3.4]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="33.795005" lon="-116.678192">
+    <ele>2830.9</ele>
+    <name>WA0181</name>
+    <desc><![CDATA[Wellmans Cienaga, 7/10 mile north of PCT mile 181.2.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.679291" lon="-116.679310">
+    <ele>1366.8</ele>
+    <name>WaterTank-Spt</name>
+    <desc><![CDATA[Water Tank N of Hurkey CG, no water for hikers - mile 7.4]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="33.799235" lon="-116.674228">
+    <ele>2957.5</ele>
+    <name>WellmanDiv</name>
+    <desc><![CDATA[Wellman Divide, trail junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="33.783687" lon="-116.657237">
+    <ele>2381.0</ele>
+    <name>WillowCreek</name>
+    <desc><![CDATA[Willow Creek]]></desc>
+    <sym>Drinking Water</sym>
+  </wpt>
+  <wpt lat="33.295565" lon="-116.638654">
+    <ele>911.3</ele>
+    <name>WR113</name>
+    <desc><![CDATA[Agua Caliente Creek, just past picnic tables.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.309273" lon="-116.630542">
+    <ele>972.1</ele>
+    <name>WR115</name>
+    <desc><![CDATA[Agua Caliente Creek]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.317172" lon="-116.626687">
+    <ele>1013.8</ele>
+    <name>WR115B</name>
+    <desc><![CDATA[Agua Caliente Creek, last crossing.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.344277" lon="-116.636958">
+    <ele>1325.5</ele>
+    <name>WR120</name>
+    <desc><![CDATA[Lost Valley Spring, 2/10 mile north of PCT mile 119.6.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.381612" lon="-116.595174">
+    <ele>1541.2</ele>
+    <name>WR127</name>
+    <desc><![CDATA[Chihuahua Valley Rd, unpaved.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.380506" lon="-116.591184">
+    <ele>1548.1</ele>
+    <name>WR127B</name>
+    <desc><![CDATA[Water tank, 2/10 mile east of PCT mile 127.3.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.457890" lon="-116.604818">
+    <ele>1095.0</ele>
+    <name>WR137</name>
+    <desc><![CDATA[Tule Canyon Creek]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.459217" lon="-116.597706">
+    <ele>1060.9</ele>
+    <name>WR137B</name>
+    <desc><![CDATA[Tule Spring, 3/10 mile E of PCT. WATER ALERT: Next northbound water may be the Paradise Cafe in 14.9 miles.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.475362" lon="-116.578381">
+    <ele>1088.0</ele>
+    <name>WR140</name>
+    <desc><![CDATA[Guzzler cistern]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.569052" lon="-116.591406">
+    <ele>1460.5</ele>
+    <name>WR152</name>
+    <desc><![CDATA[Paradise Valley Cafe, water spigot outside, 1 mile west of PCT mile 151.9. WATER ALERT: Next southbound water may be Tule Spring in 14.9 miles.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.622548" lon="-116.556536">
+    <ele>1657.0</ele>
+    <name>WR158</name>
+    <desc><![CDATA[Live Oak Spring, 1 mile east of PCT mile 158.4.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.622195" lon="-116.567215">
+    <ele>1733.6</ele>
+    <name>WR158b</name>
+    <desc><![CDATA[Tunnel Spring, 3/10 mile W of PCT.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.676726" lon="-116.576572">
+    <ele>1947.1</ele>
+    <name>WR162</name>
+    <desc><![CDATA[Cedar Spring, 1 mile north of PCT mile 162.6.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.669432" lon="-116.581411">
+    <ele>2052.2</ele>
+    <name>WR163</name>
+    <desc><![CDATA[Seasonal Eagle Spring, 3/10 mile south of PCT mile 163.3.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.759820" lon="-116.665583">
+    <ele>2485.8</ele>
+    <name>WR177</name>
+    <desc><![CDATA[Tahquitz Creek]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.786596" lon="-116.689506">
+    <ele>2620.4</ele>
+    <name>WR182</name>
+    <desc><![CDATA[Strawberry Cienaga]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.790617" lon="-116.705444">
+    <ele>2550.8</ele>
+    <name>WR184</name>
+    <desc><![CDATA[Stone Creek]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.800683" lon="-116.698779">
+    <ele>2722.8</ele>
+    <name>WR186</name>
+    <desc><![CDATA[Deer Springs, N Fork San Jacinto River. WATER ALERT: Next northbound water may be the Snow Canyon Road faucet in 20.1 miles.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.807617" lon="-116.697540">
+    <ele>2720.9</ele>
+    <name>WR186B</name>
+    <desc><![CDATA[N Fork San Jacinto River Tributary.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.810660" lon="-116.697426">
+    <ele>2712.7</ele>
+    <name>WR186C</name>
+    <desc><![CDATA[N Fork San Jacinto River]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.878122" lon="-116.679006">
+    <ele>527.4</ele>
+    <name>WR206</name>
+    <desc><![CDATA[Snow Canyon Road faucet, campsites 150 feet W, PCT joins paved Snow Creek Road. WATER ALERT: Next southbound water may be Fork of San Jacinto River Tributary in 20.1 miles.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.480494" lon="-116.574349">
+    <ele>1020.1</ele>
+    <name>WRCS140B</name>
+    <desc><![CDATA[Nance Canyon, seasonal creek, several sandy beach-like campsites downstream from trail crossing.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.719822" lon="-116.620367">
+    <ele>2085.1</ele>
+    <name>WRCS169</name>
+    <desc><![CDATA[Apache Spring, 1/2 mile east of PCT mile 169.2, several large campsites, can be very windy.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.853687" lon="-116.722852">
+    <ele>1936.9</ele>
+    <name>WRCS194</name>
+    <desc><![CDATA[Seasonal Water, West Fork Snow Creek, campsite, 1/10 mile S of PCT on unmarked use trail.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="33.679008" lon="-116.668667">
+    <ele>1348.3</ele>
+    <name>YellowPst3-Spt</name>
+    <desc><![CDATA[Yellow Post with arrow pointing N to campsite number 3. Campsite is 2/10 mile N of Apple Canyon Road - mile 6.4]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.681339" lon="-116.669224">
+    <ele>1352.9</ele>
+    <name>YPCamp3-Spt</name>
+    <desc><![CDATA[Yellow post campsite number 3]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="33.273512" lon="-116.644957">
+    <ele>928.3</ele>
+    <name>0109-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.273557" lon="-116.652692">
+    <ele>912.3</ele>
+    <name>0110</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.278256" lon="-116.658623">
+    <ele>890.2</ele>
+    <name>0110-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.284415" lon="-116.656306">
+    <ele>890.0</ele>
+    <name>0111</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.289924" lon="-116.653463">
+    <ele>897.1</ele>
+    <name>0111-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.293540" lon="-116.647536">
+    <ele>905.5</ele>
+    <name>0112</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.294819" lon="-116.639557">
+    <ele>911.0</ele>
+    <name>0112-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.296423" lon="-116.634512">
+    <ele>975.0</ele>
+    <name>0113</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.298192" lon="-116.629615">
+    <ele>1017.4</ele>
+    <name>0113-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.301887" lon="-116.629901">
+    <ele>1025.4</ele>
+    <name>0114</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.306896" lon="-116.629612">
+    <ele>1003.6</ele>
+    <name>0114-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.311240" lon="-116.627320">
+    <ele>987.8</ele>
+    <name>0115</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.316855" lon="-116.626637">
+    <ele>1016.4</ele>
+    <name>0115-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.319991" lon="-116.622857">
+    <ele>1042.1</ele>
+    <name>0116</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.321887" lon="-116.624221">
+    <ele>1104.4</ele>
+    <name>0116-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.324048" lon="-116.628416">
+    <ele>1163.6</ele>
+    <name>0117</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.325806" lon="-116.631718">
+    <ele>1228.8</ele>
+    <name>0117-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.326814" lon="-116.637185">
+    <ele>1237.8</ele>
+    <name>0118</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.332438" lon="-116.639049">
+    <ele>1266.8</ele>
+    <name>0118-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.336780" lon="-116.637123">
+    <ele>1313.7</ele>
+    <name>0119</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.341873" lon="-116.638253">
+    <ele>1353.1</ele>
+    <name>0119-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.343389" lon="-116.635667">
+    <ele>1408.9</ele>
+    <name>0120</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.341639" lon="-116.632508">
+    <ele>1462.2</ele>
+    <name>0120-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.342345" lon="-116.627974">
+    <ele>1505.2</ele>
+    <name>0121</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.345836" lon="-116.627015">
+    <ele>1534.5</ele>
+    <name>0121-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.344940" lon="-116.621510">
+    <ele>1562.0</ele>
+    <name>0122</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.346992" lon="-116.616715">
+    <ele>1538.3</ele>
+    <name>0122-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.346222" lon="-116.609994">
+    <ele>1566.0</ele>
+    <name>0123</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.350093" lon="-116.608315">
+    <ele>1549.3</ele>
+    <name>0123-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.355031" lon="-116.607649">
+    <ele>1518.6</ele>
+    <name>0124</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.360051" lon="-116.606599">
+    <ele>1535.1</ele>
+    <name>0124-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.364543" lon="-116.604395">
+    <ele>1575.8</ele>
+    <name>0125</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.368868" lon="-116.602008">
+    <ele>1581.2</ele>
+    <name>0125-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.373072" lon="-116.598634">
+    <ele>1594.3</ele>
+    <name>0126</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.377749" lon="-116.595765">
+    <ele>1577.1</ele>
+    <name>0126-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.379136" lon="-116.593495">
+    <ele>1556.0</ele>
+    <name>0127</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.382892" lon="-116.597044">
+    <ele>1559.5</ele>
+    <name>0127-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.387063" lon="-116.598350">
+    <ele>1622.2</ele>
+    <name>0128</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.389300" lon="-116.599834">
+    <ele>1641.3</ele>
+    <name>0128-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.394460" lon="-116.601166">
+    <ele>1688.0</ele>
+    <name>0129</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.397207" lon="-116.604537">
+    <ele>1714.0</ele>
+    <name>0129-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.403003" lon="-116.606539">
+    <ele>1680.4</ele>
+    <name>0130</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.407438" lon="-116.607472">
+    <ele>1605.1</ele>
+    <name>0130-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.410419" lon="-116.607439">
+    <ele>1510.3</ele>
+    <name>0131</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.415032" lon="-116.607697">
+    <ele>1442.1</ele>
+    <name>0131-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.420031" lon="-116.607256">
+    <ele>1426.1</ele>
+    <name>0132</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.424275" lon="-116.606878">
+    <ele>1426.0</ele>
+    <name>0132-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.429357" lon="-116.603430">
+    <ele>1414.7</ele>
+    <name>0133</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.435038" lon="-116.600626">
+    <ele>1351.4</ele>
+    <name>0133-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.437015" lon="-116.603155">
+    <ele>1290.2</ele>
+    <name>0134</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.442078" lon="-116.605059">
+    <ele>1249.8</ele>
+    <name>0134-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.444123" lon="-116.607938">
+    <ele>1216.3</ele>
+    <name>0135</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.448698" lon="-116.607156">
+    <ele>1196.0</ele>
+    <name>0135-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.454587" lon="-116.606642">
+    <ele>1159.5</ele>
+    <name>0136</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.457738" lon="-116.604535">
+    <ele>1095.8</ele>
+    <name>0136-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.460704" lon="-116.599697">
+    <ele>1103.2</ele>
+    <name>0137</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.463421" lon="-116.595288">
+    <ele>1088.4</ele>
+    <name>0137-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.463991" lon="-116.591599">
+    <ele>1108.2</ele>
+    <name>0138</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.468263" lon="-116.587502">
+    <ele>1112.9</ele>
+    <name>0138-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.473671" lon="-116.585585">
+    <ele>1085.4</ele>
+    <name>0139</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.475630" lon="-116.578719">
+    <ele>1092.9</ele>
+    <name>0139-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.479420" lon="-116.574203">
+    <ele>1045.4</ele>
+    <name>0140</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.481026" lon="-116.571758">
+    <ele>1067.4</ele>
+    <name>0140-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.485299" lon="-116.569791">
+    <ele>1145.1</ele>
+    <name>0141</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.487004" lon="-116.567526">
+    <ele>1192.8</ele>
+    <name>0141-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.491689" lon="-116.565529">
+    <ele>1231.9</ele>
+    <name>0142</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.494534" lon="-116.569904">
+    <ele>1278.3</ele>
+    <name>0142-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.498775" lon="-116.569781">
+    <ele>1256.6</ele>
+    <name>0143</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.502211" lon="-116.574143">
+    <ele>1265.1</ele>
+    <name>0143-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.505926" lon="-116.576609">
+    <ele>1310.5</ele>
+    <name>0144</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.508763" lon="-116.581018">
+    <ele>1322.6</ele>
+    <name>0144-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.513150" lon="-116.583057">
+    <ele>1334.5</ele>
+    <name>0145</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.515773" lon="-116.588229">
+    <ele>1362.7</ele>
+    <name>0145-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.518928" lon="-116.590565">
+    <ele>1413.1</ele>
+    <name>0146</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.523234" lon="-116.593141">
+    <ele>1452.7</ele>
+    <name>0146-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.528214" lon="-116.590576">
+    <ele>1496.4</ele>
+    <name>0147</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.529879" lon="-116.584497">
+    <ele>1445.2</ele>
+    <name>0147-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.533132" lon="-116.587122">
+    <ele>1393.4</ele>
+    <name>0148</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.535790" lon="-116.585744">
+    <ele>1451.9</ele>
+    <name>0148-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.537399" lon="-116.582785">
+    <ele>1474.4</ele>
+    <name>0149</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.541807" lon="-116.580142">
+    <ele>1456.2</ele>
+    <name>0149-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.545997" lon="-116.577138">
+    <ele>1464.6</ele>
+    <name>0150</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.549930" lon="-116.577999">
+    <ele>1506.7</ele>
+    <name>0150-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.553999" lon="-116.581286">
+    <ele>1539.6</ele>
+    <name>0151</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.559782" lon="-116.579201">
+    <ele>1535.6</ele>
+    <name>0151-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.564920" lon="-116.576303">
+    <ele>1510.7</ele>
+    <name>0152</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.570114" lon="-116.576146">
+    <ele>1525.9</ele>
+    <name>0152-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.570920" lon="-116.573189">
+    <ele>1506.4</ele>
+    <name>0153</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.574868" lon="-116.573764">
+    <ele>1510.6</ele>
+    <name>0153-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.577850" lon="-116.571396">
+    <ele>1536.6</ele>
+    <name>0154</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.583341" lon="-116.571653">
+    <ele>1573.4</ele>
+    <name>0154-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.588717" lon="-116.570154">
+    <ele>1582.2</ele>
+    <name>0155</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.591023" lon="-116.572002">
+    <ele>1544.4</ele>
+    <name>0155-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.596434" lon="-116.570263">
+    <ele>1586.8</ele>
+    <name>0156</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.602320" lon="-116.567745">
+    <ele>1650.4</ele>
+    <name>0156-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.607892" lon="-116.564828">
+    <ele>1706.1</ele>
+    <name>0157</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.613126" lon="-116.565722">
+    <ele>1734.1</ele>
+    <name>0157-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.619769" lon="-116.567240">
+    <ele>1785.8</ele>
+    <name>0158</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.624701" lon="-116.563194">
+    <ele>1835.6</ele>
+    <name>0158-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.630667" lon="-116.562044">
+    <ele>1886.8</ele>
+    <name>0159</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.634892" lon="-116.567337">
+    <ele>1936.8</ele>
+    <name>0159-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.640304" lon="-116.569367">
+    <ele>1963.1</ele>
+    <name>0160</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.642806" lon="-116.570336">
+    <ele>2023.8</ele>
+    <name>0160-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.647980" lon="-116.566862">
+    <ele>2078.5</ele>
+    <name>0161</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.653488" lon="-116.570951">
+    <ele>2070.2</ele>
+    <name>0161-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.660189" lon="-116.571033">
+    <ele>2060.4</ele>
+    <name>0162</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.666279" lon="-116.572973">
+    <ele>2076.6</ele>
+    <name>0162-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.669782" lon="-116.578833">
+    <ele>2125.6</ele>
+    <name>0163</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.674287" lon="-116.583679">
+    <ele>2129.7</ele>
+    <name>0163-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.677411" lon="-116.590236">
+    <ele>2140.8</ele>
+    <name>0164</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.679096" lon="-116.597793">
+    <ele>2154.1</ele>
+    <name>0164-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.682359" lon="-116.601506">
+    <ele>2049.4</ele>
+    <name>0165</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.683934" lon="-116.603493">
+    <ele>1950.2</ele>
+    <name>0165-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.686231" lon="-116.602366">
+    <ele>1899.5</ele>
+    <name>0166</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.690006" lon="-116.609023">
+    <ele>1826.9</ele>
+    <name>0166-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.695472" lon="-116.612079">
+    <ele>1937.7</ele>
+    <name>0167</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.698944" lon="-116.616607">
+    <ele>2046.5</ele>
+    <name>0167-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.702092" lon="-116.619748">
+    <ele>2146.5</ele>
+    <name>0168</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.708099" lon="-116.621953">
+    <ele>2140.8</ele>
+    <name>0168-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.714558" lon="-116.623563">
+    <ele>2240.4</ele>
+    <name>0169</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.719659" lon="-116.624227">
+    <ele>2236.8</ele>
+    <name>0169-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.724626" lon="-116.628598">
+    <ele>2188.1</ele>
+    <name>0170</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.727362" lon="-116.629141">
+    <ele>2121.1</ele>
+    <name>0170-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.728244" lon="-116.634370">
+    <ele>2110.3</ele>
+    <name>0171</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.732367" lon="-116.639390">
+    <ele>2091.6</ele>
+    <name>0171-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.734345" lon="-116.642073">
+    <ele>2169.7</ele>
+    <name>0172</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.739044" lon="-116.645315">
+    <ele>2182.9</ele>
+    <name>0172-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.743157" lon="-116.645644">
+    <ele>2223.2</ele>
+    <name>0173</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.742158" lon="-116.650067">
+    <ele>2288.5</ele>
+    <name>0173-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.745161" lon="-116.648597">
+    <ele>2315.6</ele>
+    <name>0174</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.750969" lon="-116.648268">
+    <ele>2379.2</ele>
+    <name>0174-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.757047" lon="-116.648285">
+    <ele>2459.2</ele>
+    <name>0175</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.760505" lon="-116.645455">
+    <ele>2511.4</ele>
+    <name>0175-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.762090" lon="-116.648708">
+    <ele>2558.4</ele>
+    <name>0176</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.762729" lon="-116.655948">
+    <ele>2537.0</ele>
+    <name>0176-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.760929" lon="-116.662893">
+    <ele>2501.6</ele>
+    <name>0177</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.760630" lon="-116.667340">
+    <ele>2511.6</ele>
+    <name>0177-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.757495" lon="-116.671634">
+    <ele>2627.3</ele>
+    <name>0178</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.763415" lon="-116.671087">
+    <ele>2560.4</ele>
+    <name>0178-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.769665" lon="-116.674024">
+    <ele>2517.4</ele>
+    <name>0179</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.775555" lon="-116.673099">
+    <ele>2481.4</ele>
+    <name>0179-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.779406" lon="-116.671765">
+    <ele>2590.5</ele>
+    <name>0180</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.781307" lon="-116.673071">
+    <ele>2704.6</ele>
+    <name>0180-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.786611" lon="-116.674955">
+    <ele>2728.5</ele>
+    <name>0181</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.787325" lon="-116.681547">
+    <ele>2715.7</ele>
+    <name>0181-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.785823" lon="-116.688219">
+    <ele>2624.2</ele>
+    <name>0182</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.782105" lon="-116.692996">
+    <ele>2581.0</ele>
+    <name>0182-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.782721" lon="-116.698012">
+    <ele>2501.9</ele>
+    <name>0183</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.783550" lon="-116.704063">
+    <ele>2455.6</ele>
+    <name>0183-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.789167" lon="-116.705491">
+    <ele>2543.2</ele>
+    <name>0184</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.794143" lon="-116.707865">
+    <ele>2567.7</ele>
+    <name>0184-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.799624" lon="-116.706783">
+    <ele>2633.8</ele>
+    <name>0185</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.800121" lon="-116.699751">
+    <ele>2707.5</ele>
+    <name>0185-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.805948" lon="-116.698940">
+    <ele>2732.2</ele>
+    <name>0186</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.811256" lon="-116.698494">
+    <ele>2693.0</ele>
+    <name>0186-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.815084" lon="-116.701635">
+    <ele>2606.8</ele>
+    <name>0187</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.820245" lon="-116.704183">
+    <ele>2642.4</ele>
+    <name>0187-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.824577" lon="-116.708211">
+    <ele>2558.4</ele>
+    <name>0188</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.828924" lon="-116.711750">
+    <ele>2592.2</ele>
+    <name>0188-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.833773" lon="-116.716014">
+    <ele>2488.8</ele>
+    <name>0189</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.836334" lon="-116.722991">
+    <ele>2440.4</ele>
+    <name>0189-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.838463" lon="-116.729594">
+    <ele>2397.1</ele>
+    <name>0190</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.839352" lon="-116.736445">
+    <ele>2358.3</ele>
+    <name>0190-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.844640" lon="-116.738206">
+    <ele>2297.8</ele>
+    <name>0191</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.847922" lon="-116.737169">
+    <ele>2249.2</ele>
+    <name>0191-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.850180" lon="-116.734436">
+    <ele>2178.4</ele>
+    <name>0192</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.854892" lon="-116.734069">
+    <ele>2101.2</ele>
+    <name>0192-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.854230" lon="-116.731186">
+    <ele>2052.5</ele>
+    <name>0193</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.856091" lon="-116.727147">
+    <ele>1990.3</ele>
+    <name>0193-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.857007" lon="-116.722331">
+    <ele>1928.3</ele>
+    <name>0194</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.855761" lon="-116.719903">
+    <ele>1884.8</ele>
+    <name>0194-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.861860" lon="-116.719794">
+    <ele>1799.7</ele>
+    <name>0195</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.864232" lon="-116.716684">
+    <ele>1713.7</ele>
+    <name>0195-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.865508" lon="-116.714169">
+    <ele>1644.2</ele>
+    <name>0196</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.866944" lon="-116.713424">
+    <ele>1595.1</ele>
+    <name>0196-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.868905" lon="-116.712192">
+    <ele>1527.1</ele>
+    <name>0197</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.872507" lon="-116.708341">
+    <ele>1445.1</ele>
+    <name>0197-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.868473" lon="-116.709108">
+    <ele>1391.8</ele>
+    <name>0198</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.869074" lon="-116.705438">
+    <ele>1336.7</ele>
+    <name>0198-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.874340" lon="-116.702661">
+    <ele>1274.3</ele>
+    <name>0199</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.868590" lon="-116.702694">
+    <ele>1233.1</ele>
+    <name>0199-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.866776" lon="-116.696281">
+    <ele>1166.3</ele>
+    <name>0200</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.867679" lon="-116.695224">
+    <ele>1103.4</ele>
+    <name>0200-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.871387" lon="-116.695310">
+    <ele>1042.8</ele>
+    <name>0201</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.868910" lon="-116.693938">
+    <ele>1012.7</ele>
+    <name>0201-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.870427" lon="-116.691533">
+    <ele>953.7</ele>
+    <name>0202</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.876181" lon="-116.688494">
+    <ele>883.1</ele>
+    <name>0202-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.881859" lon="-116.692470">
+    <ele>828.4</ele>
+    <name>0203</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.884399" lon="-116.699815">
+    <ele>782.5</ele>
+    <name>0203-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.885503" lon="-116.695155">
+    <ele>711.7</ele>
+    <name>0204</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.883106" lon="-116.687878">
+    <ele>670.9</ele>
+    <name>0204-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.881977" lon="-116.685031">
+    <ele>613.0</ele>
+    <name>0205</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.877460" lon="-116.680904">
+    <ele>557.1</ele>
+    <name>0205-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.881666" lon="-116.678519">
+    <ele>485.5</ele>
+    <name>0206</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.888463" lon="-116.679710">
+    <ele>412.1</ele>
+    <name>0206-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.894150" lon="-116.683378">
+    <ele>377.5</ele>
+    <name>0207</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.900747" lon="-116.684745">
+    <ele>365.3</ele>
+    <name>0207-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.907682" lon="-116.684689">
+    <ele>370.7</ele>
+    <name>0208</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.914719" lon="-116.684756">
+    <ele>381.4</ele>
+    <name>0208-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.920115" lon="-116.689045">
+    <ele>397.7</ele>
+    <name>0209</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="33.924524" lon="-116.694668">
+    <ele>409.3</ele>
+    <name>0209-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+</gpx>

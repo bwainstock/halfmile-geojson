@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     creator="~lippke/PCT-2015/lol/P16 - Final GPX.ipynb" version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+     http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <desc><![CDATA[This waypoint data is sourced from the PCT Halfmile Project.
+          Elevation values are spline interpolations from USGS 1/3rd arcsecond DEM data
+          and, as such, are NAVD88-based (i.e., are quasi MSL).<br/><br/>
+          Contact David Lippke <lippke@gmail.com> if you have technical questions
+          or Lon Cooper <Halfmile@pctmap.net> for all others.]]>
+    </desc>
+  </metadata>
+  <wpt lat="42.063879" lon="-122.602595">
+    <ele>1301.7</ele>
+    <name>Hwy5B</name>
+    <desc><![CDATA[Interstate Highway 5]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="42.058467" lon="-122.602566">
+    <ele>1328.0</ele>
+    <name>RD1717</name>
+    <desc><![CDATA[PCT departs paved Old Highway 99]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.059073" lon="-122.591514">
+    <ele>1335.7</ele>
+    <name>BR1718</name>
+    <desc><![CDATA[Small wooden hiker bridge over a usually dry creek bed. ]]></desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.055093" lon="-122.584745">
+    <ele>1481.9</ele>
+    <name>GT1718</name>
+    <desc><![CDATA[Pipe gate]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="42.049886" lon="-122.585802">
+    <ele>1492.7</ele>
+    <name>RD1719</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.047403" lon="-122.583923">
+    <ele>1473.4</ele>
+    <name>RD1719B</name>
+    <desc><![CDATA[Unpaved road, pipe gate nearby.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.039954" lon="-122.581535">
+    <ele>1531.6</ele>
+    <name>GT1720</name>
+    <desc><![CDATA[Pipe gate]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="42.031260" lon="-122.567307">
+    <ele>1571.3</ele>
+    <name>TR1721</name>
+    <desc><![CDATA[Pilot Rock trail junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.041354" lon="-122.548688">
+    <ele>1530.0</ele>
+    <name>CS1723</name>
+    <desc><![CDATA[Campsite, pit privy behind a tree.]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="42.039144" lon="-122.543922">
+    <ele>1504.9</ele>
+    <name>SodaWild</name>
+    <desc><![CDATA[Soda Mountain Wilderness boundary]]></desc>
+    <sym>Forest</sym>
+  </wpt>
+  <wpt lat="42.042603" lon="-122.524625">
+    <ele>1591.5</ele>
+    <name>SodaWild2</name>
+    <desc><![CDATA[Another Soda Mountain Wilderness boundary]]></desc>
+    <sym>Forest</sym>
+  </wpt>
+  <wpt lat="42.043679" lon="-122.521143">
+    <ele>1617.5</ele>
+    <name>TR1724</name>
+    <desc><![CDATA[Lone Pilot trail junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.053570" lon="-122.507690">
+    <ele>1624.6</ele>
+    <name>WA1726</name>
+    <desc><![CDATA[Piped spring]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.068356" lon="-122.482413">
+    <ele>1680.1</ele>
+    <name>TR1728</name>
+    <desc><![CDATA[Trail junction to a piped spring and a pond.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.069098" lon="-122.483190">
+    <ele>1668.8</ele>
+    <name>WA1728</name>
+    <desc><![CDATA[Piped spring near a small pond, 100 yards NW of PCT.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.083175" lon="-122.481116">
+    <ele>1638.4</ele>
+    <name>PL1729</name>
+    <desc><![CDATA[Several high voltage power lines.]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="42.085376" lon="-122.481866">
+    <ele>1612.6</ele>
+    <name>RD1729</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.095102" lon="-122.473193">
+    <ele>1610.5</ele>
+    <name>TR1730</name>
+    <desc><![CDATA[Hobart Bluff trail junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.116356" lon="-122.478600">
+    <ele>1409.0</ele>
+    <name>GT1732</name>
+    <desc><![CDATA[Trail gate]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="42.130085" lon="-122.482737">
+    <ele>1389.4</ele>
+    <name>Hwy66</name>
+    <desc><![CDATA[Highway 66 at Green Springs Mountain Summit, near the junction of Old Hyatt Prairie Road, trail gate nearby.]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="42.130525" lon="-122.482557">
+    <ele>1395.6</ele>
+    <name>RD1733</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.134191" lon="-122.482354">
+    <ele>1393.1</ele>
+    <name>GT1733</name>
+    <desc><![CDATA[Pipe gate]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="42.139437" lon="-122.487516">
+    <ele>1413.3</ele>
+    <name>GT1734</name>
+    <desc><![CDATA[Pipe gate]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="42.142882" lon="-122.490390">
+    <ele>1432.6</ele>
+    <name>RD1734</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.143579" lon="-122.494068">
+    <ele>1434.0</ele>
+    <name>RD1734B</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.142263" lon="-122.495954">
+    <ele>1441.9</ele>
+    <name>WA1735</name>
+    <desc><![CDATA[Small pond]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.140881" lon="-122.500344">
+    <ele>1466.7</ele>
+    <name>RD1735</name>
+    <desc><![CDATA[Unpaved road, Green Springs Mountain Loop Connector trail junction nearby.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.147304" lon="-122.506902">
+    <ele>1507.9</ele>
+    <name>TR1737</name>
+    <desc><![CDATA[Green Springs Mountain Loop Connector , second trail junction.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.155485" lon="-122.504873">
+    <ele>1443.3</ele>
+    <name>RD1737</name>
+    <desc><![CDATA[Narrow unpaved road, pipe gate nearby.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.156370" lon="-122.503035">
+    <ele>1427.0</ele>
+    <name>CS1737</name>
+    <desc><![CDATA[Campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="42.158024" lon="-122.486602">
+    <ele>1407.7</ele>
+    <name>CS1739</name>
+    <desc><![CDATA[Small campsite]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="42.158715" lon="-122.485680">
+    <ele>1408.6</ele>
+    <name>WA1739</name>
+    <desc><![CDATA[Hyatt Lake outlet, bridge, large creek.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.158329" lon="-122.485142">
+    <ele>1409.0</ele>
+    <name>RD1739</name>
+    <desc><![CDATA[Unpaved Hyatt Prairie road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.157843" lon="-122.475993">
+    <ele>1508.6</ele>
+    <name>RD1739B</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.161867" lon="-122.467708">
+    <ele>1550.0</ele>
+    <name>PL1740</name>
+    <desc><![CDATA[High voltage power line]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="42.164420" lon="-122.465124">
+    <ele>1556.0</ele>
+    <name>RD1740</name>
+    <desc><![CDATA[Cross a paved road near the junction of Hyatt Prairie Road and East Hyatt Lake Road.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.163939" lon="-122.462742">
+    <ele>1554.0</ele>
+    <name>WA1740</name>
+    <desc><![CDATA[Water fountain and spigot.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.176702" lon="-122.451888">
+    <ele>1586.9</ele>
+    <name>TR1742</name>
+    <desc><![CDATA[BLM horse camp trail junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.178711" lon="-122.444987">
+    <ele>1560.9</ele>
+    <name>RD1742</name>
+    <desc><![CDATA[Unpaved jeep road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.186475" lon="-122.436947">
+    <ele>1550.2</ele>
+    <name>RD1743</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.190747" lon="-122.432548">
+    <ele>1584.4</ele>
+    <name>RD1744</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.200710" lon="-122.387235">
+    <ele>1407.4</ele>
+    <name>RD1747</name>
+    <desc><![CDATA[Badly paved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.200357" lon="-122.385215">
+    <ele>1410.0</ele>
+    <name>RD1747B</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.208618" lon="-122.371071">
+    <ele>1434.0</ele>
+    <name>RD1748</name>
+    <desc><![CDATA[Unpaved road, left to Klum Campground.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.211323" lon="-122.368871">
+    <ele>1412.8</ele>
+    <name>RD1748B</name>
+    <desc><![CDATA[Unpaved road, campsite nearby.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.217077" lon="-122.367949">
+    <ele>1365.8</ele>
+    <name>WA1749</name>
+    <desc><![CDATA[Canal and bridge, unpaved road nearby.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.217022" lon="-122.366766">
+    <ele>1359.0</ele>
+    <name>WA1749B</name>
+    <desc><![CDATA[Grizzly Creek with wooden bridge.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.217115" lon="-122.365245">
+    <ele>1365.3</ele>
+    <name>RD1749</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.218698" lon="-122.359949">
+    <ele>1398.0</ele>
+    <name>RD1749B</name>
+    <desc><![CDATA[Paved, one lane Moon Prairie Road.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.226681" lon="-122.350483">
+    <ele>1447.2</ele>
+    <name>RD1750</name>
+    <desc><![CDATA[Paved Keno Access Road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.231433" lon="-122.339155">
+    <ele>1520.0</ele>
+    <name>RD1751</name>
+    <desc><![CDATA[Unpaved gravel road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.235875" lon="-122.315364">
+    <ele>1676.6</ele>
+    <name>RD1752</name>
+    <desc><![CDATA[Another badly paved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.241163" lon="-122.308194">
+    <ele>1739.8</ele>
+    <name>TR1753</name>
+    <desc><![CDATA[Trail junction to a spring.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.240949" lon="-122.306848">
+    <ele>1731.9</ele>
+    <name>WA1753</name>
+    <desc><![CDATA[Piped spring]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.242776" lon="-122.307527">
+    <ele>1741.8</ele>
+    <name>RD1753</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.242051" lon="-122.298346">
+    <ele>1765.1</ele>
+    <name>TR1753B</name>
+    <desc><![CDATA[Vulture Rock trail junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.250568" lon="-122.287646">
+    <ele>1878.0</ele>
+    <name>RogueRiverNF</name>
+    <desc><![CDATA[Rogue River National Forest boundary, pipe gate.]]></desc>
+    <sym>Forest</sym>
+  </wpt>
+  <wpt lat="42.273131" lon="-122.276882">
+    <ele>1645.2</ele>
+    <name>RD1757</name>
+    <desc><![CDATA[Paved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.293362" lon="-122.271520">
+    <ele>1640.6</ele>
+    <name>RD1759</name>
+    <desc><![CDATA[Paved Dead Indian Memorial Road, Pederson Trailhead, Sno-Park nearby.]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.313308" lon="-122.262816">
+    <ele>1617.0</ele>
+    <name>TR1761</name>
+    <desc><![CDATA[South Brown Mountain Shelter trail junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.313573" lon="-122.264502">
+    <ele>1625.2</ele>
+    <name>WA1761</name>
+    <desc><![CDATA[South Brown Mountain Shelter, cabin, picnic table, water pump.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.315471" lon="-122.262854">
+    <ele>1605.8</ele>
+    <name>RD1761</name>
+    <desc><![CDATA[Unpaved road]]></desc>
+    <sym>Truck</sym>
+  </wpt>
+  <wpt lat="42.336658" lon="-122.261425">
+    <ele>1595.4</ele>
+    <name>TR1763</name>
+    <desc><![CDATA[Lake O' The Woods trail junction. Lake is 5 miles off trail.]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.337552" lon="-122.263246">
+    <ele>1589.3</ele>
+    <name>WA1763</name>
+    <desc><![CDATA[Dry creek with a wooden bridge.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.393852" lon="-122.290139">
+    <ele>1509.3</ele>
+    <name>TR1771</name>
+    <desc><![CDATA[Fish Lake trail junction]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.395858" lon="-122.291469">
+    <ele>1514.8</ele>
+    <name>Hwy140</name>
+    <desc><![CDATA[Highway 140]]></desc>
+    <sym>Car</sym>
+  </wpt>
+  <wpt lat="42.200040" lon="-122.382097">
+    <ele>1408.4</ele>
+    <name>TR1747</name>
+    <desc><![CDATA[Sign for "Horse Camp"]]></desc>
+    <sym>Trail Head</sym>
+  </wpt>
+  <wpt lat="42.142514" lon="-122.489451">
+    <ele>1430.5</ele>
+    <name>PL1734</name>
+    <desc><![CDATA[Power line]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="42.059578" lon="-122.599383">
+    <ele>1319.6</ele>
+    <name>PL1717</name>
+    <desc><![CDATA[Low voltage power line]]></desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+  <wpt lat="42.122704" lon="-122.464166">
+    <ele>1380.3</ele>
+    <name>GreenSprInn</name>
+    <desc><![CDATA[Green Springs Inn, 1.8 miles southeast of the PCT.]]></desc>
+    <sym>Lodging</sym>
+  </wpt>
+  <wpt lat="42.180148" lon="-122.466227">
+    <ele>1532.0</ele>
+    <name>CampersCove</name>
+    <desc><![CDATA[Campers Cove/Hyatt Lake Resort, 1.4 miles N of PCT mile 1749.8.]]></desc>
+    <sym>Lodging</sym>
+  </wpt>
+  <wpt lat="42.168684" lon="-122.463245">
+    <ele>1536.3</ele>
+    <name>HyattLkCG</name>
+    <desc><![CDATA[Hyatt Lake Campground, 3/10 mile N of PCT.]]></desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="42.208734" lon="-122.374904">
+    <ele>1395.0</ele>
+    <name>WA1748</name>
+    <desc><![CDATA[Klum Landing Park Campground, 3/10 mi W of PCT.]]></desc>
+    <sym>Water Source</sym>
+  </wpt>
+  <wpt lat="42.062074" lon="-122.602392">
+    <ele>1302.3</ele>
+    <name>1716-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.059330" lon="-122.599023">
+    <ele>1322.5</ele>
+    <name>1717</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.059140" lon="-122.592068">
+    <ele>1339.1</ele>
+    <name>1717-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.059622" lon="-122.587300">
+    <ele>1396.7</ele>
+    <name>1718</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.054624" lon="-122.584308">
+    <ele>1493.7</ele>
+    <name>1718-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.049242" lon="-122.585206">
+    <ele>1482.9</ele>
+    <name>1719</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.043652" lon="-122.582128">
+    <ele>1498.4</ele>
+    <name>1719-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.038467" lon="-122.578058">
+    <ele>1566.2</ele>
+    <name>1720</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.032943" lon="-122.573223">
+    <ele>1605.6</ele>
+    <name>1720-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.030989" lon="-122.567769">
+    <ele>1569.4</ele>
+    <name>1721</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.034743" lon="-122.561396">
+    <ele>1565.6</ele>
+    <name>1721-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.035891" lon="-122.553468">
+    <ele>1576.4</ele>
+    <name>1722</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.040589" lon="-122.549294">
+    <ele>1536.8</ele>
+    <name>1722-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.038673" lon="-122.542015">
+    <ele>1501.1</ele>
+    <name>1723</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.041586" lon="-122.536580">
+    <ele>1521.9</ele>
+    <name>1723-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.042315" lon="-122.528501">
+    <ele>1565.8</ele>
+    <name>1724</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.044090" lon="-122.520017">
+    <ele>1624.6</ele>
+    <name>1724-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.049755" lon="-122.515990">
+    <ele>1638.4</ele>
+    <name>1725</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.052404" lon="-122.508861">
+    <ele>1643.1</ele>
+    <name>1725-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.056976" lon="-122.502304">
+    <ele>1578.2</ele>
+    <name>1726</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.060540" lon="-122.496222">
+    <ele>1663.9</ele>
+    <name>1726-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.065621" lon="-122.491613">
+    <ele>1687.6</ele>
+    <name>1727</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.067662" lon="-122.483513">
+    <ele>1679.6</ele>
+    <name>1727-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.073472" lon="-122.478614">
+    <ele>1680.3</ele>
+    <name>1728</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.079882" lon="-122.481111">
+    <ele>1661.9</ele>
+    <name>1728-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.086162" lon="-122.481383">
+    <ele>1620.4</ele>
+    <name>1729</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.092314" lon="-122.478052">
+    <ele>1590.7</ele>
+    <name>1729-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.097267" lon="-122.472252">
+    <ele>1613.0</ele>
+    <name>1730</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.102227" lon="-122.473967">
+    <ele>1575.1</ele>
+    <name>1730-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.106727" lon="-122.477389">
+    <ele>1498.7</ele>
+    <name>1731</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.111441" lon="-122.479904">
+    <ele>1447.6</ele>
+    <name>1731-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.117244" lon="-122.478336">
+    <ele>1390.8</ele>
+    <name>1732</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.123482" lon="-122.477640">
+    <ele>1438.2</ele>
+    <name>1732-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.129260" lon="-122.482217">
+    <ele>1387.0</ele>
+    <name>1733</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.134782" lon="-122.483458">
+    <ele>1396.1</ele>
+    <name>1733-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.140074" lon="-122.487795">
+    <ele>1417.9</ele>
+    <name>1734</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.143240" lon="-122.494823">
+    <ele>1435.8</ele>
+    <name>1734-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.139337" lon="-122.500785">
+    <ele>1473.2</ele>
+    <name>1735</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.135587" lon="-122.507261">
+    <ele>1499.7</ele>
+    <name>1735-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.141343" lon="-122.510740">
+    <ele>1487.3</ele>
+    <name>1736</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.146596" lon="-122.507384">
+    <ele>1508.6</ele>
+    <name>1736-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.152149" lon="-122.508811">
+    <ele>1464.8</ele>
+    <name>1737</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.156879" lon="-122.502372">
+    <ele>1416.9</ele>
+    <name>1737-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.157229" lon="-122.495158">
+    <ele>1458.8</ele>
+    <name>1738</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.158143" lon="-122.488383">
+    <ele>1424.0</ele>
+    <name>1738-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.156358" lon="-122.480774">
+    <ele>1450.1</ele>
+    <name>1739</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.158768" lon="-122.474885">
+    <ele>1516.3</ele>
+    <name>1739-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.162390" lon="-122.467276">
+    <ele>1551.8</ele>
+    <name>1740</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.164123" lon="-122.459534">
+    <ele>1561.2</ele>
+    <name>1740-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.168475" lon="-122.455821">
+    <ele>1585.8</ele>
+    <name>1741</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.173082" lon="-122.450515">
+    <ele>1590.3</ele>
+    <name>1741-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.176784" lon="-122.448018">
+    <ele>1574.3</ele>
+    <name>1742</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.182057" lon="-122.443520">
+    <ele>1562.9</ele>
+    <name>1742-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.185806" lon="-122.437939">
+    <ele>1551.0</ele>
+    <name>1743</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.189414" lon="-122.432211">
+    <ele>1574.6</ele>
+    <name>1743-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.193877" lon="-122.428366">
+    <ele>1643.4</ele>
+    <name>1744</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.197756" lon="-122.423559">
+    <ele>1659.8</ele>
+    <name>1744-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.201989" lon="-122.416939">
+    <ele>1592.2</ele>
+    <name>1745</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.200344" lon="-122.409111">
+    <ele>1517.9</ele>
+    <name>1745-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.200304" lon="-122.400744">
+    <ele>1491.5</ele>
+    <name>1746</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.200611" lon="-122.391636">
+    <ele>1425.2</ele>
+    <name>1746-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.200052" lon="-122.382677">
+    <ele>1411.2</ele>
+    <name>1747</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.204601" lon="-122.376284">
+    <ele>1456.2</ele>
+    <name>1747-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.209590" lon="-122.370457">
+    <ele>1422.3</ele>
+    <name>1748</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.215560" lon="-122.367689">
+    <ele>1392.0</ele>
+    <name>1748-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.218416" lon="-122.361470">
+    <ele>1391.1</ele>
+    <name>1749</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.222173" lon="-122.353822">
+    <ele>1428.9</ele>
+    <name>1749-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.227907" lon="-122.349161">
+    <ele>1457.0</ele>
+    <name>1750</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.231137" lon="-122.341190">
+    <ele>1512.8</ele>
+    <name>1750-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.229923" lon="-122.332556">
+    <ele>1542.3</ele>
+    <name>1751</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.233802" lon="-122.325397">
+    <ele>1608.7</ele>
+    <name>1751-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.234573" lon="-122.317675">
+    <ele>1674.4</ele>
+    <name>1752</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.238556" lon="-122.310490">
+    <ele>1718.7</ele>
+    <name>1752-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.243399" lon="-122.305043">
+    <ele>1741.6</ele>
+    <name>1753</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.242101" lon="-122.296394">
+    <ele>1773.4</ele>
+    <name>1753-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.243523" lon="-122.287296">
+    <ele>1814.1</ele>
+    <name>1754</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.249946" lon="-122.286515">
+    <ele>1882.5</ele>
+    <name>1754-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.255354" lon="-122.290232">
+    <ele>1855.7</ele>
+    <name>1755</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.261613" lon="-122.289443">
+    <ele>1806.2</ele>
+    <name>1755-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.266013" lon="-122.291847">
+    <ele>1744.7</ele>
+    <name>1756</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.269711" lon="-122.285815">
+    <ele>1668.2</ele>
+    <name>1756-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.272296" lon="-122.278251">
+    <ele>1643.5</ele>
+    <name>1757</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.277099" lon="-122.274297">
+    <ele>1659.4</ele>
+    <name>1757-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.281151" lon="-122.266885">
+    <ele>1674.3</ele>
+    <name>1758</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.287951" lon="-122.265912">
+    <ele>1645.0</ele>
+    <name>1758-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.292348" lon="-122.271611">
+    <ele>1637.3</ele>
+    <name>1759</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.298826" lon="-122.271590">
+    <ele>1671.2</ele>
+    <name>1759-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.303823" lon="-122.266058">
+    <ele>1678.8</ele>
+    <name>1760</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.309348" lon="-122.260937">
+    <ele>1628.6</ele>
+    <name>1760-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.315811" lon="-122.262423">
+    <ele>1611.5</ele>
+    <name>1761</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.318479" lon="-122.254664">
+    <ele>1628.6</ele>
+    <name>1761-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.324533" lon="-122.253669">
+    <ele>1617.0</ele>
+    <name>1762</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.330658" lon="-122.257380">
+    <ele>1615.6</ele>
+    <name>1762-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.336590" lon="-122.261348">
+    <ele>1596.1</ele>
+    <name>1763</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.335279" lon="-122.268785">
+    <ele>1584.4</ele>
+    <name>1763-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.334311" lon="-122.276949">
+    <ele>1591.1</ele>
+    <name>1764</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.338329" lon="-122.282492">
+    <ele>1595.9</ele>
+    <name>1764-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.343047" lon="-122.287718">
+    <ele>1595.8</ele>
+    <name>1765</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.346709" lon="-122.292873">
+    <ele>1577.8</ele>
+    <name>1765-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.350927" lon="-122.291722">
+    <ele>1643.5</ele>
+    <name>1766</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.355455" lon="-122.296439">
+    <ele>1654.5</ele>
+    <name>1766-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.360446" lon="-122.297243">
+    <ele>1679.0</ele>
+    <name>1767</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.365567" lon="-122.296742">
+    <ele>1663.8</ele>
+    <name>1767-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.370201" lon="-122.302504">
+    <ele>1607.2</ele>
+    <name>1768</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.374796" lon="-122.299240">
+    <ele>1611.4</ele>
+    <name>1768-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.378368" lon="-122.295208">
+    <ele>1618.3</ele>
+    <name>1769</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.382892" lon="-122.292110">
+    <ele>1577.6</ele>
+    <name>1769-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.387515" lon="-122.287743">
+    <ele>1540.9</ele>
+    <name>1770</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+  <wpt lat="42.392197" lon="-122.287574">
+    <ele>1510.3</ele>
+    <name>1770-5</name>
+    <sym>Triangle, Red</sym>
+  </wpt>
+</gpx>
